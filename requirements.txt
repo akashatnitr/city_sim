@@ -1,0 +1,11 @@
+pygame==2.5.2
+numpy==1.26.0
+matplotlib==3.8.0
+pyyaml==6.0.1
+pillow==10.0.1
+networkx==3.2.1
+tqdm==4.66.1
+colorama==0.4.6
+pathfinding==1.0.4
+noise==1.2.2
+attrs==23.1.0

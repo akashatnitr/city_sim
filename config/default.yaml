@@ -1,0 +1,30 @@
+agents:
+  initial_population: 100
+city:
+  commercial_count: 50
+  educational_count: 10
+  grid_size: 200
+  height: 2000
+  main_road_width: 10
+  name: AI City
+  recreation_count: 20
+  residential_count: 100
+  service_count: 10
+  transportation_count: 30
+  width: 2000
+crime:
+  crime_rate: 0.01
+  enable_crime: true
+enable_city_growth: true
+events:
+  enable_events: true
+  event_probability: 0.001
+fps: 60
+start_hour: 8
+time_scale: 60
+traffic:
+  congestion_factor: 1.0
+  enable_traffic: true
+weather:
+  enable_weather: true
+  weather_change_probability: 0.001
