@@ -287,5 +287,5 @@ For questions, issues, or contributions, please:
 
 ---
 
-**Developed by Manus AI** - Creating intelligent simulation systems for urban planning and analysis.
+
 
